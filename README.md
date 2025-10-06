@@ -1,4 +1,1 @@
-# Leveling Up With the Gods
-<Leveling Up With the Gods>
-
-« Peut-être que les dieux intérieurs ne pourront jamais vaincre les dieux extérieurs… », pensa Kim Yu Won, un courageux guerrier de haut rang, après une défaite amère. Mais Yu Won est trop tenace pour abandonner. Sa défaite devient l’aube d’un nouveau voyage pour celui qui est revenu dans le passé. Avec une détermination renouvelée, Yu Won repart de là où il a commencé, écrasant monstre après monstre et réapprenant ses compétences avant de s’attaquer à nouveau à la Tour. Cependant, pourra-t-il se frayer un chemin à travers les tutoriels et monter de niveau une fois de plus ou sa conquête s’effondrera-t-elle devant lui ?
+# leveling-up-with-the-gods
